@@ -20,7 +20,7 @@ namespace Library_Terminal
         {
 
         }
-        public static void FilterBookListByAuthor(List<Books> bookList)
+        public static void FilterBooksByAuthor(List<Books> bookList)
         {
             Console.WriteLine("What author would you like to search for?");
             string input = Console.ReadLine();
@@ -32,17 +32,17 @@ namespace Library_Terminal
                     if (book.Author == input)
                     {
                         counter++;
-                        Console.WriteLine($"{counter}. {book.Title}");
+                        Console.WriteLine($"{counter}. {book.Author}");
                     }
                 }
             }
             else
             {
-                Console.WriteLine("That is not a valid author.");
+                Console.WriteLine("That is not a valid author.\n");
                 FilterBookListByAuthor(bookList);
             }
         }
-        public void FilterBookListByTitle(List<Books> bookList)
+        public static void FilterBooksByTitle(List<Books> bookList)
         {
             Console.WriteLine("What title would you like to search for?");
             string input = Console.ReadLine();
@@ -60,7 +60,7 @@ namespace Library_Terminal
             }
             else
             {
-                Console.WriteLine("That is not a valid title.");
+                Console.WriteLine("That is not a valid title.\n");
                 FilterBookListByTitle(bookList);
             }
         }
