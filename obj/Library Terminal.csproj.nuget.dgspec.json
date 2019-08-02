@@ -1,0 +1,78 @@
+{
+  "format": 1,
+  "restore": {
+<<<<<<< HEAD
+    "C:\\Users\\JoshB\\OneDrive\\Library Midterm Pulls\\Library Terminal.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\JoshB\\OneDrive\\Library Midterm Pulls\\Library Terminal.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\JoshB\\OneDrive\\Library Midterm Pulls\\Library Terminal.csproj",
+        "projectName": "Library Terminal",
+        "projectPath": "C:\\Users\\JoshB\\OneDrive\\Library Midterm Pulls\\Library Terminal.csproj",
+        "packagesPath": "C:\\Users\\JoshB\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\JoshB\\OneDrive\\Library Midterm Pulls\\obj\\",
+=======
+    "C:\\Users\\outvi\\source\\repos\\MidTerm-Library-Terminal-master\\Library Terminal.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\outvi\\source\\repos\\MidTerm-Library-Terminal-master\\Library Terminal.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\outvi\\source\\repos\\MidTerm-Library-Terminal-master\\Library Terminal.csproj",
+        "projectName": "Library Terminal",
+        "projectPath": "C:\\Users\\outvi\\source\\repos\\MidTerm-Library-Terminal-master\\Library Terminal.csproj",
+        "packagesPath": "C:\\Users\\outvi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\outvi\\source\\repos\\MidTerm-Library-Terminal-master\\obj\\",
+>>>>>>> 28ca02d0010212fb59a4b3b7775dc91d8e110f9d
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+<<<<<<< HEAD
+          "C:\\Users\\JoshB\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+          "C:\\Users\\outvi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> 28ca02d0010212fb59a4b3b7775dc91d8e110f9d
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

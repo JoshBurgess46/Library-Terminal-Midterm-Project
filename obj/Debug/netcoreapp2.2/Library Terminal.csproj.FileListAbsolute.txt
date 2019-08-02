@@ -1,0 +1,22 @@
+C:\Users\JoshB\OneDrive\Library Terminal\bin\Debug\netcoreapp2.2\Library Terminal.deps.json
+C:\Users\JoshB\OneDrive\Library Terminal\bin\Debug\netcoreapp2.2\Library Terminal.runtimeconfig.json
+C:\Users\JoshB\OneDrive\Library Terminal\bin\Debug\netcoreapp2.2\Library Terminal.runtimeconfig.dev.json
+C:\Users\JoshB\OneDrive\Library Terminal\bin\Debug\netcoreapp2.2\Library Terminal.dll
+C:\Users\JoshB\OneDrive\Library Terminal\bin\Debug\netcoreapp2.2\Library Terminal.pdb
+C:\Users\JoshB\OneDrive\Library Terminal\obj\Debug\netcoreapp2.2\Library Terminal.csprojAssemblyReference.cache
+C:\Users\JoshB\OneDrive\Library Terminal\obj\Debug\netcoreapp2.2\Library Terminal.csproj.CoreCompileInputs.cache
+C:\Users\JoshB\OneDrive\Library Terminal\obj\Debug\netcoreapp2.2\Library Terminal.AssemblyInfoInputs.cache
+C:\Users\JoshB\OneDrive\Library Terminal\obj\Debug\netcoreapp2.2\Library Terminal.AssemblyInfo.cs
+C:\Users\JoshB\OneDrive\Library Terminal\obj\Debug\netcoreapp2.2\Library Terminal.dll
+C:\Users\JoshB\OneDrive\Library Terminal\obj\Debug\netcoreapp2.2\Library Terminal.pdb
+C:\Users\JoshB\OneDrive\Library Midterm Pulls\bin\Debug\netcoreapp2.2\Library Terminal.deps.json
+C:\Users\JoshB\OneDrive\Library Midterm Pulls\bin\Debug\netcoreapp2.2\Library Terminal.runtimeconfig.json
+C:\Users\JoshB\OneDrive\Library Midterm Pulls\bin\Debug\netcoreapp2.2\Library Terminal.runtimeconfig.dev.json
+C:\Users\JoshB\OneDrive\Library Midterm Pulls\bin\Debug\netcoreapp2.2\Library Terminal.dll
+C:\Users\JoshB\OneDrive\Library Midterm Pulls\bin\Debug\netcoreapp2.2\Library Terminal.pdb
+C:\Users\JoshB\OneDrive\Library Midterm Pulls\obj\Debug\netcoreapp2.2\Library Terminal.csprojAssemblyReference.cache
+C:\Users\JoshB\OneDrive\Library Midterm Pulls\obj\Debug\netcoreapp2.2\Library Terminal.csproj.CoreCompileInputs.cache
+C:\Users\JoshB\OneDrive\Library Midterm Pulls\obj\Debug\netcoreapp2.2\Library Terminal.AssemblyInfoInputs.cache
+C:\Users\JoshB\OneDrive\Library Midterm Pulls\obj\Debug\netcoreapp2.2\Library Terminal.AssemblyInfo.cs
+C:\Users\JoshB\OneDrive\Library Midterm Pulls\obj\Debug\netcoreapp2.2\Library Terminal.dll
+C:\Users\JoshB\OneDrive\Library Midterm Pulls\obj\Debug\netcoreapp2.2\Library Terminal.pdb
